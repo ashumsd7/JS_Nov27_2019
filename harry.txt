@@ -1,0 +1,3 @@
+Cow has four legs.
+Cow has two eyes,
+Cow has two ears.
